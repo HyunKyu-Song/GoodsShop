@@ -4,34 +4,39 @@
       "name": "민지",
       "birth": "2004.05.07",
       "from": "대한민국",
-      "MBTI": "ESTJ"
+      "MBTI": "ESTJ",
+      "group_id" : 1
    },
    {
       "id": 1,
       "name": "하니",
       "birth": "2004.10.06",
       "from": "호주, 베트남",
-      "MBTI": "INFP"
+      "MBTI": "INFP",
+      "group_id" : 1
    },
    {
       "id": 2,
       "name": "다니엘",
       "birth": "2005.04.11",
       "from": "대한민국, 호주",
-      "MBTI": "ENFP"
+      "MBTI": "ENFP",
+      "group_id" : 1
    },
    {
       "id": 3,
       "name": "해린",
       "birth": "2006.05.15",
       "from": "대한민국",
-      "MBTI": "ISTP"
+      "MBTI": "ISTP",
+      "group_id" : 1
    },
    {
       "id": 4,
       "name": "혜인",
       "birth": "2008.04.21",
       "from": "대한민국",
-      "MBTI": "INFP"
+      "MBTI": "INFP",
+      "group_id" : 1
    }
 ]
