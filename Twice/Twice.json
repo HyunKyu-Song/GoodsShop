@@ -1,0 +1,74 @@
+[
+   {
+      "id": 0,
+      "name": "나연",
+      "birth": "1995.09.22",
+      "from": "대한민국",
+      "MBTI": "ISTP",
+      "group_id" : 2
+   },
+   {
+      "id": 1,
+      "name": "정연",
+      "birth": "1996.11.01",
+      "from": "대한민국",
+      "MBTI": "ISFJ",
+      "group_id" : 2
+   },
+   {
+      "id": 2,
+      "name": "모모",
+      "birth": "1996.11.09",
+      "from": "일본",
+      "MBTI": "INFP",
+      "group_id" : 2
+   },
+   {
+      "id": 3,
+      "name": "사나",
+      "birth": "1996.12.29",
+      "from": "일본",
+      "MBTI": "ENFP",
+      "group_id" : 2
+   },
+   {
+      "id": 4,
+      "name": "지효",
+      "birth": "1997.02.01",
+      "from": "대한민국",
+      "MBTI": "ESFP",
+      "group_id" : 2
+   },
+   {
+      "id": 5,
+      "name": "미나",
+      "birth": "1997.03.24",
+      "from": "일본",
+      "MBTI": "ISTP",
+      "group_id" : 2
+   },
+   {
+      "id": 6,
+      "name": "다현",
+      "birth": "1998.05.28",
+      "from": "대한민국",
+      "MBTI": "ISFJ",
+      "group_id" : 2
+   },
+   {
+      "id": 7,
+      "name": "채영",
+      "birth": "1999.04.23",
+      "from": "대한민국",
+      "MBTI": "INFP",
+      "group_id" : 2
+   },
+   {
+      "id": 7,
+      "name": "쯔위",
+      "birth": "1999.06.14",
+      "from": "대만",
+      "MBTI": "ISFP",
+      "group_id" : 2
+   }
+]
